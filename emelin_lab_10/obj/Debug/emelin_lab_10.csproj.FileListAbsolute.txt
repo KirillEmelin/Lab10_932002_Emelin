@@ -1,0 +1,11 @@
+C:\Users\ЧЕЙСИЛА\Desktop\LABSim\emelin10\emelin_lab_10\bin\Debug\emelin_lab_10.exe.config
+C:\Users\ЧЕЙСИЛА\Desktop\LABSim\emelin10\emelin_lab_10\bin\Debug\emelin_lab_10.exe
+C:\Users\ЧЕЙСИЛА\Desktop\LABSim\emelin10\emelin_lab_10\bin\Debug\emelin_lab_10.pdb
+C:\Users\ЧЕЙСИЛА\Desktop\LABSim\emelin10\emelin_lab_10\obj\Debug\emelin_lab_10.csproj.AssemblyReference.cache
+C:\Users\ЧЕЙСИЛА\Desktop\LABSim\emelin10\emelin_lab_10\obj\Debug\emelin_lab_10.csproj.SuggestedBindingRedirects.cache
+C:\Users\ЧЕЙСИЛА\Desktop\LABSim\emelin10\emelin_lab_10\obj\Debug\emelin_lab_10.Properties.Resources.resources
+C:\Users\ЧЕЙСИЛА\Desktop\LABSim\emelin10\emelin_lab_10\obj\Debug\emelin_lab_10.csproj.GenerateResource.cache
+C:\Users\ЧЕЙСИЛА\Desktop\LABSim\emelin10\emelin_lab_10\obj\Debug\emelin_lab_10.csproj.CoreCompileInputs.cache
+C:\Users\ЧЕЙСИЛА\Desktop\LABSim\emelin10\emelin_lab_10\obj\Debug\emelin_lab_10.exe
+C:\Users\ЧЕЙСИЛА\Desktop\LABSim\emelin10\emelin_lab_10\obj\Debug\emelin_lab_10.pdb
+C:\Users\ЧЕЙСИЛА\Desktop\LABSim\emelin10\emelin_lab_10\obj\Debug\emelin_lab_10.Form1.resources
